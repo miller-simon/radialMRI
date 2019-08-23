@@ -14,7 +14,8 @@ INSTRUCTIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Before using the toolbox, make sure to add the toolbox (the folder 
 OaklandReconstructionToolbox) and its subfolders to the MATLAB path. The current folder 
-should be 'OaklandReconstructionToolbox' when the code is run.
+should be 'OaklandReconstructionToolbox' when the code is run. You will also need to change
+the directory names appropriately.
 
 When inserting scan data into the 'Expts' file, be sure to insert it into the folder 
 associated with the correct system. Also, the folder containing the scan data should
