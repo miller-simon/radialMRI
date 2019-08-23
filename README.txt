@@ -6,7 +6,7 @@ ABOUT
 The Oakland Reconstruction Toolbox is designed to offer multiple methods of
 reconstruction of images from radially sampled NMR data collected on Bruker AVII or AVIIIHD systems in 
 MATLAB. It could easily be adapted for other scanner data. Reconstruction methods include Standard Gridding, Gridding with Oversampling,
-Gridding with Oversampling and Deapodization, and Filtered Back Projection.
+Gridding with Oversampling and Deapodization, Filtered Back Projection, and Filtered Back Projection with Spatial Filtering.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
